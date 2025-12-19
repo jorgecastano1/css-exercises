@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+.oddNumbers {
+    background-color:rgb(235, 64, 48);
+    font-family: Verdana, "DejaVu Sans", sans-serif
+
+}
+
+#secondElement {
+    color:rgb(0, 60, 255);
+    font-size:36px;
+}
+
+.thirdElement {
+    font-size:24px;
+}
+
+/* the third element could add the 24px size by either id or another class */
+
+#fourthElement {
+    background-color: rgb(123, 220, 126);
+    font-size:24px;
+    font-weight:bold;
+}
